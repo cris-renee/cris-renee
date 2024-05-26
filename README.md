@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cris-renee, 41, in Virginia
 - 👀 I’m interested in my college work, family (especially my kids and granddaughter), and lots of computer time and learning
-- 🌱 I’m currently learning the beginning stages of cybersecurity and looking to start learning coding in C++, Java, and Python
+- 🌱 I’m in my senior year of Information Technology. Learning blue team cybersecurity, and looking for internship
 - 📫 How to reach me by email cmorell@liberty.edu
 
 <!---
